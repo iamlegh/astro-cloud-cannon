@@ -4,7 +4,7 @@ const blog = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.date(),
-    author: z.enum(["Anna Dixon", "Victoria Greenfelder", "Darnell McClure"]),
+    author: z.enum(["Cisco", "Fañch", "IamLegh"]),
     image: z.object({
       src: z.string(),
       alt: z.string(),
