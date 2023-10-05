@@ -13,10 +13,10 @@ const blog = defineCollection({
       .string()
       .max(
         160,
-        "For best SEO results, please keep the description under 160 characters."
+        "Pour de meilleurs scores SEO, il est préférable de ne pas dépasser 160 characters."
       ),
     draft: z.boolean().default(false),
-    category: z.enum(["CSS", "Reference Docs", "Astro", "General"]),
+    category: z.enum(["CSS", "Documents de référence", "Astro", "General"]),
   }),
 });
 
