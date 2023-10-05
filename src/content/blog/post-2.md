@@ -1,7 +1,7 @@
 ---
 title: Running out of sample post ideas
 date: 2022-11-25
-author: Victoria Greenfelder
+author: IamLegh
 image: {
   src: "/images/post-2.jpg",
   alt: "A picture of a coder",

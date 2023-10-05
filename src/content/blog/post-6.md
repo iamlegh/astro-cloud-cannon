@@ -1,7 +1,7 @@
 ---
 title: Building an Astro Post Tag Component
 date: 2022-12-03
-author: Anna Dixon
+author: Cisco
 image: {
   src: "/images/post-6.jpg",
   alt: "A picture of a coder",

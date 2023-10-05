@@ -1,7 +1,7 @@
 ---
 title: JavaScript SchmavaScript
 date: 2022-12-05
-author: Victoria Greenfelder
+author: Cisco
 image: {
   src: "/images/post-5.jpg",
   alt: "A picture of a coder",

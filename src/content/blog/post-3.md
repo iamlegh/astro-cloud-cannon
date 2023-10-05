@@ -1,7 +1,7 @@
 ---
 title: Beginning with CSS
 date: 2022-12-03
-author: Darnell McClure
+author: IamLegh
 image: {
   src: "/images/post-3.jpg",
   alt: "A picture of a coder",
