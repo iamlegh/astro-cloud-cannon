@@ -1,7 +1,7 @@
 ---
 title: Why is this CSS so weird?
 date: 2022-12-09T00:00:00Z
-author: Anna Dixon
+author: Cisco
 image:
   src: /images/post-4.jpg
   alt: A picture of a coder
