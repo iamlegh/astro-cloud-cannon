@@ -1,8 +1,8 @@
 {
-  "title": "My Astro Blog",
-  "description": "My musings about the Astro framework",
+  "title": "Propulser Astro au-delà des nuages avec CloudCannon",
+  "description": "Ma première tentative de déploiement d'un projet Astro avec CloudCannon !",
   "image": {
-    "src": "/images/image-default.jpg",
+    "src": "/images/post-example.jpg",
     "alt": "My Astro Blog"
   }
 }
