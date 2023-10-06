@@ -3,6 +3,6 @@
   "description": "Ma première tentative de déploiement d'un projet Astro avec CloudCannon !",
   "image": {
     "src": "/images/post-example.jpg",
-    "alt": "My Astro Blog"
+    "alt": "Catapulter Astro via CloudCannon"
   }
 }
